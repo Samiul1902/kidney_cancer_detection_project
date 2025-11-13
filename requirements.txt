@@ -1,0 +1,55 @@
+# ---- Core Python Libraries ----
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+# tqdm
+
+# ---- Image Processing ----
+opencv-python-headless
+Pillow
+scikit-image
+imageio
+albumentations
+
+# ---- Deep Learning (TensorFlow + Keras) ----
+tensorflow
+tensorflow-hub
+tensorflow-addons
+keras
+
+# ---- OCR & Vision-Language Models ----
+# pytesseract
+# easyocr
+# transformers
+# sentencepiece
+# accelerate
+# huggingface-hub
+
+# ---- Medical Image Processing ----
+# pydicom
+# SimpleITK
+# nibabel
+
+# ---- Visualization & Explainability ----
+# plotly
+# shap
+
+# ---- Data Management & Preprocessing ----
+# tensorflow-datasets
+# glob2
+# pathlib
+
+# ---- Lightweight Streamlit UI ----
+# streamlit
+# streamlit-option-menu
+
+# ---- MQTT / IoT Integration (for your gesture car) ----
+# paho-mqtt
+# blynk-library
+
+# ---- Optional Federated / Self-Supervised (future ready) ----
+# lightly
+# flower
